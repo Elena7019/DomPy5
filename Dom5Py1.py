@@ -23,7 +23,7 @@ def count(quantity):
 
 player1 = input('Имя первого игрока: ')
 player2 = input('Имя второго игрока: ')
-quantity = 29
+quantity = 2021
 print('Бросаем монетку. У кого орел, тот ходит первым')
 flag = randint(0, 1)
 if flag:
